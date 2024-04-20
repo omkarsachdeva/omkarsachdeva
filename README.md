@@ -6,7 +6,9 @@
 - 📫 How to reach me omkarsachdeva3832stella@gmail.com
 - Connect with me
   >https://www.linkedin.com/in/omkar-sachdeva-00443328a/
-  >https://www.instagram.com/omkarsachdeva/
+  
+  >![omkarsachdeva_qr](https://github.com/omkarsachdeva/omkarsachdeva/assets/125148365/7e0b60a5-dff9-462b-a955-7995b3622547)
+
 
 
 
