@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 One of my app is published on playstore [Director Connect](https://play.google.com/store/apps/details?id=com.blackhats.DirectorConnect)
+
 
 - 🌱 I’m currently learning :
 -  Android development
@@ -11,6 +11,7 @@
 -  DSA
 
 - 📫 How to reach me **omkarsachdeva3832stella@gmail.com**
+-  🔭 One of my app is published on playstore [Director Connect](https://play.google.com/store/apps/details?id=com.blackhats.DirectorConnect)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
