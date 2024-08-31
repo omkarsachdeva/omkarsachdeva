@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-sachdeva-00443328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-sachdeva-00443328a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/omkarsachdeva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/omkarsachdeva/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/omkarsachdeva381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/omkarsachdeva381" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/omkarsachdeva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/omkarsachdeva/" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/omkarsachdeva3832stella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/omkarsachdeva3832stella/" height="30" width="40" /></a>
 </p>
 
